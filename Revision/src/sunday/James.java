@@ -7,7 +7,7 @@ public class James {
 		//mjbgf jbfdbijfdi
 		
 		
-		
+		System.out.println("hi ");
 	}
 
 }
